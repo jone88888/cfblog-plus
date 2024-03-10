@@ -22,7 +22,7 @@ const OPT = { //网站配置
   "logo":"https://cdn.jsdelivr.net/gh/Arronlong/cfblog-plus@master/themes/JustNews/files/logo2.png",//JustNews主题的logo
 
   "theme_github_path":"https://cdn.jsdelivr.net/gh/Arronlong/cfblog-plus@master/themes/",//主题路径
-  "themeURL" : "https://github.com/jone88888/cfblog-plus/master/themes/JustNews/", // 模板地址,以 "/"" 结尾
+  "themeURL" : "https://raw.githubusercontent.com/jone88888/cfblog-plus/master/themes/JustNews/", // 模板地址,以 "/"" 结尾
   //"search_xml_url":"", //search.xml外部链接，可通过github的action自动生成，不设置则实时生成
   //"sitemap_xml_url":"", //sitemap.xml外部链接，可通过github的action自动生成，不设置则实时生成
   
